@@ -13,3 +13,4 @@ In addition to helping me explore new topics, hopefully these notebooks will pro
 
 - `000-sm-notebooks-2021.ipynb`: "Example notebooks for Statsmodels in 2021". Contains an overview of this project.
 - `001-etl-data-covid-19.ipynb`: "ETL Data - COVID-19 datasets". Describes three ETL strategies for the COVID-19 datasets that will be used for part of this project (CSV files, API calls, and Google BigQuery queries), and shows three visualizations using the data.
+- `002-seasonal-adjustment.ipynb`: "Seasonal adjustment - COVID-19 cases". Shows how to use several methods from Statsmodels to seasonally adjust data, where the application is seasonally adjusting new cases of COVID-19 in the U.S.
